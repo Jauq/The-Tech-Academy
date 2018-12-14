@@ -1,0 +1,7 @@
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseExceptionHandling\ExerciseExceptionHandling\bin\Debug\ExerciseExceptionHandling.exe.config
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseExceptionHandling\ExerciseExceptionHandling\bin\Debug\ExerciseExceptionHandling.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseExceptionHandling\ExerciseExceptionHandling\bin\Debug\ExerciseExceptionHandling.pdb
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseExceptionHandling\ExerciseExceptionHandling\obj\Debug\ExerciseExceptionHandling.csprojAssemblyReference.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseExceptionHandling\ExerciseExceptionHandling\obj\Debug\ExerciseExceptionHandling.csproj.CoreCompileInputs.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseExceptionHandling\ExerciseExceptionHandling\obj\Debug\ExerciseExceptionHandling.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseExceptionHandling\ExerciseExceptionHandling\obj\Debug\ExerciseExceptionHandling.pdb

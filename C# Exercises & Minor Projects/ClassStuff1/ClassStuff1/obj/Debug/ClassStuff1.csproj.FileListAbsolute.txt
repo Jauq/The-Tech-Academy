@@ -1,0 +1,7 @@
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ClassStuff1\ClassStuff1\bin\Debug\ClassStuff1.exe.config
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ClassStuff1\ClassStuff1\bin\Debug\ClassStuff1.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ClassStuff1\ClassStuff1\bin\Debug\ClassStuff1.pdb
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ClassStuff1\ClassStuff1\obj\Debug\ClassStuff1.csprojAssemblyReference.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ClassStuff1\ClassStuff1\obj\Debug\ClassStuff1.csproj.CoreCompileInputs.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ClassStuff1\ClassStuff1\obj\Debug\ClassStuff1.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ClassStuff1\ClassStuff1\obj\Debug\ClassStuff1.pdb

@@ -1,0 +1,7 @@
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseArraysAndLists\ExerciseArraysAndLists\bin\Debug\ExerciseArraysAndLists.exe.config
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseArraysAndLists\ExerciseArraysAndLists\bin\Debug\ExerciseArraysAndLists.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseArraysAndLists\ExerciseArraysAndLists\bin\Debug\ExerciseArraysAndLists.pdb
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseArraysAndLists\ExerciseArraysAndLists\obj\Debug\ExerciseArraysAndLists.csprojAssemblyReference.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseArraysAndLists\ExerciseArraysAndLists\obj\Debug\ExerciseArraysAndLists.csproj.CoreCompileInputs.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseArraysAndLists\ExerciseArraysAndLists\obj\Debug\ExerciseArraysAndLists.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseArraysAndLists\ExerciseArraysAndLists\obj\Debug\ExerciseArraysAndLists.pdb

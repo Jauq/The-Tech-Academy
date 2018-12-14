@@ -1,0 +1,7 @@
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

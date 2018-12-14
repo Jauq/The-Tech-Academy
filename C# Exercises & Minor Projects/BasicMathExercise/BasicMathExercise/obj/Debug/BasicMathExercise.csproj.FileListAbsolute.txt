@@ -1,0 +1,7 @@
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\BasicMathExercise\BasicMathExercise\obj\Debug\BasicMathExercise.csprojAssemblyReference.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\BasicMathExercise\BasicMathExercise\obj\Debug\BasicMathExercise.csproj.CoreCompileInputs.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\BasicMathExercise\BasicMathExercise\bin\Debug\BasicMathExercise.exe.config
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\BasicMathExercise\BasicMathExercise\bin\Debug\BasicMathExercise.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\BasicMathExercise\BasicMathExercise\bin\Debug\BasicMathExercise.pdb
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\BasicMathExercise\BasicMathExercise\obj\Debug\BasicMathExercise.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\BasicMathExercise\BasicMathExercise\obj\Debug\BasicMathExercise.pdb

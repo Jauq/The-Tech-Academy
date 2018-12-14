@@ -1,0 +1,7 @@
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseStructs\ExerciseStructs\bin\Debug\ExerciseStructs.exe.config
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseStructs\ExerciseStructs\bin\Debug\ExerciseStructs.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseStructs\ExerciseStructs\bin\Debug\ExerciseStructs.pdb
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseStructs\ExerciseStructs\obj\Debug\ExerciseStructs.csprojAssemblyReference.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseStructs\ExerciseStructs\obj\Debug\ExerciseStructs.csproj.CoreCompileInputs.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseStructs\ExerciseStructs\obj\Debug\ExerciseStructs.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseStructs\ExerciseStructs\obj\Debug\ExerciseStructs.pdb

@@ -1,0 +1,7 @@
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseIteration\ExerciseIteration\bin\Debug\ExerciseIteration.exe.config
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseIteration\ExerciseIteration\bin\Debug\ExerciseIteration.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseIteration\ExerciseIteration\bin\Debug\ExerciseIteration.pdb
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseIteration\ExerciseIteration\obj\Debug\ExerciseIteration.csprojAssemblyReference.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseIteration\ExerciseIteration\obj\Debug\ExerciseIteration.csproj.CoreCompileInputs.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseIteration\ExerciseIteration\obj\Debug\ExerciseIteration.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseIteration\ExerciseIteration\obj\Debug\ExerciseIteration.pdb

@@ -1,0 +1,5 @@
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino\bin\Debug\Casino.dll
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino\bin\Debug\Casino.pdb
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\Casino.dll
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\Casino.pdb

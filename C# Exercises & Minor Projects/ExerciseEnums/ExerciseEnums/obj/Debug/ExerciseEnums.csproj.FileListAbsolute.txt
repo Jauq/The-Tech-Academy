@@ -1,0 +1,7 @@
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseEnums\ExerciseEnums\bin\Debug\ExerciseEnums.exe.config
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseEnums\ExerciseEnums\bin\Debug\ExerciseEnums.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseEnums\ExerciseEnums\bin\Debug\ExerciseEnums.pdb
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseEnums\ExerciseEnums\obj\Debug\ExerciseEnums.csprojAssemblyReference.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseEnums\ExerciseEnums\obj\Debug\ExerciseEnums.csproj.CoreCompileInputs.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseEnums\ExerciseEnums\obj\Debug\ExerciseEnums.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseEnums\ExerciseEnums\obj\Debug\ExerciseEnums.pdb

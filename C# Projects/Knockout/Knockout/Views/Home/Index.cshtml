@@ -1,0 +1,64 @@
+﻿<script type="text/javascript" src="~/Scripts/knockout-3.4.2.js"></script>
+<div class="row justify-content-center">
+    <div class="col col-lg-6 col-md-8 col-sm-12">
+        <div class="card my-2 mx-4">
+            <div class="card-header text-center">
+                <h5>Add a New Person</h5>
+            </div>
+            <div class="card-body">
+                <div class="input-group justify-content-center">
+                    <input class="text-center form-control" type="text" data-bind="value: first" placeholder="First" />
+                    <input class="text-center form-control" type="text" data-bind="value: last" placeholder="Last" />
+                    <div class="input-group-append">
+                        <button class="text-center btn btn-outline-success" data-bind="click: addPerson">Add</button>
+                    </div>
+                </div>
+                <br />
+                <ul data-bind="foreach: peopleList" class="list-group list-group-flush justify-content-center">
+                    <li class="list-group-item my-0 p-1">
+                        <div class="row">
+                            <span data-bind="text: $index" class="badge badge-secondary col px-0"></span>
+                            <div class="col-8">
+                                <span data-bind="text: fname"> </span> <span data-bind="text: lname"> </span>
+                            </div>
+                            <button class="btn btn-outline-info p-0 mx-1 col" data-bind="click: $root.info">Info</button>
+                            <button class="btn btn-outline-danger p-0 mx-0 col" data-bind="click: $root.removePerson">Remove</button>
+                        </div>
+                    </li>
+                </ul>
+                <div>
+                    <br />
+                    <span data-bind="text: infoBox"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    var ViewModel = function (people) {
+        this.first = ko.observable("");
+        this.last = ko.observable("");
+        this.infoBox = ko.observable("Info will be displayed here");
+
+        this.peopleList = ko.observableArray(people);
+
+        this.addPerson = function () {
+            if (this.first() != "" && this.last() != "") {
+                this.peopleList.push({ fname: this.first(), lname: this.last(), info: "Pregenerated info for " + this.first() + " " + this.last() + "." });
+                this.first("");
+                this.last("");
+            }
+        }.bind(this)
+
+        this.removePerson = function (value) {
+            this.peopleList.remove(value)
+        }.bind(this)
+
+        this.info = function (value) {
+            this.infoBox(this.peopleList()[this.peopleList.indexOf(value)].info);
+        }.bind(this)
+    };
+
+    ko.applyBindings(new ViewModel([{ fname: 'Tomny', lname: 'Anflof', info: 'This is Tomny Anflof, This is custom text.'}, { fname: 'Testy', lname: 'McTestface', info: 'This is a test name.'}]));
+</script>

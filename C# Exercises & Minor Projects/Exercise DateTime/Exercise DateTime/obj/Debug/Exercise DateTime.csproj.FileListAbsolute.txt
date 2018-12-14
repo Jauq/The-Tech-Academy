@@ -1,0 +1,6 @@
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise DateTime\Exercise DateTime\bin\Debug\Exercise DateTime.exe.config
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise DateTime\Exercise DateTime\bin\Debug\Exercise DateTime.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise DateTime\Exercise DateTime\bin\Debug\Exercise DateTime.pdb
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise DateTime\Exercise DateTime\obj\Debug\Exercise DateTime.csproj.CoreCompileInputs.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise DateTime\Exercise DateTime\obj\Debug\Exercise DateTime.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise DateTime\Exercise DateTime\obj\Debug\Exercise DateTime.pdb

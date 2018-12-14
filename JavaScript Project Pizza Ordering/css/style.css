@@ -1,0 +1,42 @@
+h1 {
+  font-weight: bold;
+  font-size: 1em;
+  margin: 6px;
+}
+
+.titleCard {
+  font-weight: bold;
+  margin: 4px;
+  padding: 4px;
+}
+
+.footerCard {
+  margin: 4px;
+}
+
+.custom-control {
+  margin: 2px 6px;
+}
+
+.card {
+  border: 2px solid #909090;
+  background-color: #fbfbfb;
+}
+
+.orderWords {
+  margin: 1px 6px;
+}
+
+.custBtn {
+  margin: 4px;
+}
+
+.typeSubHeader {
+  font-size: 0.8em;
+  margin: 2px 6px;
+  color: #404040;
+}
+
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

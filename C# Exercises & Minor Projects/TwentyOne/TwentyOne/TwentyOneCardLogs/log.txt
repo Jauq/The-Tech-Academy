@@ -1,0 +1,257 @@
+Five of Diamonds
+
+Eight of Clubs
+
+Six of Hearts
+
+Seven of Spades
+
+Three of Diamonds
+
+Two of Diamonds
+
+Ten of Clubs
+
+Six of Diamonds
+
+Ace of Hearts
+
+King of Hearts
+
+King of Clubs
+
+11/7/2018 2:50:05 PM
+Queen of Spades
+
+11/7/2018 2:50:05 PM
+Six of Clubs
+
+11/7/2018 2:50:05 PM
+King of Clubs
+
+11/7/2018 2:50:05 PM
+Ten of Diamonds
+
+11/7/2018 2:50:13 PM
+Queen of Clubs
+
+11/7/2018 2:52:00 PM
+Three of Hearts
+
+11/7/2018 2:52:01 PM
+Six of Spades
+
+11/7/2018 2:52:01 PM
+Ten of Diamonds
+
+11/7/2018 2:52:01 PM
+Ace of Diamonds
+
+11/7/2018 2:52:04 PM
+Seven of Diamonds
+
+11/7/2018 2:52:13 PM
+Four of Hearts
+
+11/7/2018 2:52:13 PM
+Nine of Spades
+
+11/7/2018 2:52:13 PM
+Queen of Hearts
+
+11/7/2018 2:52:13 PM
+Eight of Hearts
+
+11/7/2018 2:52:16 PM
+King of Clubs
+
+11/7/2018 2:52:21 PM
+Jack of Diamonds
+
+11/7/2018 2:52:21 PM
+Queen of Clubs
+
+11/7/2018 2:52:21 PM
+Two of Clubs
+
+11/7/2018 2:52:21 PM
+Five of Spades
+
+11/7/2018 2:52:23 PM
+Five of Hearts
+
+11/7/2018 2:52:25 PM
+King of Clubs
+
+11/7/2018 2:52:29 PM
+Six of Hearts
+
+11/7/2018 2:52:29 PM
+Six of Spades
+
+11/7/2018 2:52:29 PM
+Nine of Spades
+
+11/7/2018 2:52:29 PM
+Four of Spades
+
+11/7/2018 2:52:32 PM
+Four of Diamonds
+
+11/7/2018 2:52:32 PM
+Ten of Clubs
+
+11/7/2018 2:53:32 PM
+Eight of Clubs
+
+11/7/2018 2:53:32 PM
+King of Clubs
+
+11/7/2018 2:53:32 PM
+Nine of Spades
+
+11/7/2018 2:53:32 PM
+Two of Clubs
+
+11/7/2018 2:53:34 PM
+Jack of Clubs
+
+11/7/2018 2:53:43 PM
+Nine of Diamonds
+
+11/7/2018 2:53:43 PM
+Six of Clubs
+
+11/7/2018 2:53:43 PM
+Five of Diamonds
+
+11/7/2018 2:53:43 PM
+Jack of Diamonds
+
+11/7/2018 2:53:45 PM
+Jack of Spades
+
+11/8/2018 10:20:17 AM
+Ten of Clubs
+
+11/8/2018 10:20:17 AM
+Queen of Hearts
+
+11/8/2018 10:20:17 AM
+Queen of Spades
+
+11/8/2018 10:20:17 AM
+Two of Clubs
+
+11/8/2018 10:20:24 AM
+Queen of Diamonds
+
+13cec242-0329-49eb-85df-cb81722d5de2
+11/8/2018 10:27:40 AM
+Ace of Diamonds
+
+11/8/2018 10:27:40 AM
+Queen of Diamonds
+
+11/8/2018 10:27:40 AM
+Three of Clubs
+
+11/8/2018 10:27:40 AM
+Ten of Spades
+
+11/8/2018 10:27:44 AM
+Three of Diamonds
+
+11/8/2018 10:27:50 AM
+Six of Spades
+
+11/8/2018 10:28:00 AM
+King of Spades
+
+fd0b2ea3-77c4-482d-a169-a831bc8380ae
+11/8/2018 11:33:59 AM
+Two of Hearts
+
+11/8/2018 11:33:59 AM
+Five of Diamonds
+
+11/8/2018 11:33:59 AM
+Seven of Diamonds
+
+11/8/2018 11:33:59 AM
+Two of Diamonds
+
+11/8/2018 11:34:02 AM
+Ten of Clubs
+
+11/8/2018 11:34:05 AM
+Three of Clubs
+
+11/8/2018 11:34:05 AM
+Queen of Diamonds
+
+1c4ce86d-f745-47db-b6b0-34265396fc8c
+11/8/2018 11:36:02 AM
+Nine of Spades
+
+11/8/2018 11:36:02 AM
+Three of Hearts
+
+11/8/2018 11:36:02 AM
+Jack of Spades
+
+11/8/2018 11:36:02 AM
+Three of Spades
+
+11/8/2018 11:36:05 AM
+Queen of Clubs
+
+506f7135-96d4-4446-9a64-ac38b1a83011
+11/8/2018 11:40:49 AM
+Ten of Hearts
+
+11/8/2018 11:40:49 AM
+Queen of Diamonds
+
+11/8/2018 11:40:49 AM
+Two of Spades
+
+11/8/2018 11:40:49 AM
+Ace of Diamonds
+
+c09cbff8-a35c-479e-9b7e-cfa836f714b1
+11/8/2018 11:45:17 AM
+Seven of Diamonds
+
+11/8/2018 11:45:17 AM
+Two of Spades
+
+11/8/2018 11:45:17 AM
+Seven of Clubs
+
+11/8/2018 11:45:17 AM
+Queen of Clubs
+
+11/8/2018 11:45:27 AM
+Queen of Spades
+
+3898b353-5199-4fc4-81a3-9e63ddbffbfb
+11/8/2018 11:46:09 AM
+Ten of Diamonds
+
+11/8/2018 11:46:09 AM
+Ace of Diamonds
+
+11/8/2018 11:46:09 AM
+Jack of Diamonds
+
+11/8/2018 11:46:09 AM
+Jack of Hearts
+
+d5c1b108-9452-4706-9683-44a453a28314
+634ce0be-725f-4577-b042-496989316343
+16546158-8dcb-4851-9567-ac7e9263857c
+37a91429-016d-4a08-afa8-754ae2ba617c
+9a35057f-1331-499b-b04d-297f87e88fd8
+55e10814-beda-41fa-8e4d-f34e3112e73e
+f57b17a3-85aa-4204-ae5a-42f09ad47e0f

@@ -1,0 +1,7 @@
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseMoreClassStuff\ExerciseMoreClassStuff\bin\Debug\ExerciseMoreClassStuff.exe.config
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseMoreClassStuff\ExerciseMoreClassStuff\bin\Debug\ExerciseMoreClassStuff.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseMoreClassStuff\ExerciseMoreClassStuff\bin\Debug\ExerciseMoreClassStuff.pdb
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseMoreClassStuff\ExerciseMoreClassStuff\obj\Debug\ExerciseMoreClassStuff.csprojAssemblyReference.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseMoreClassStuff\ExerciseMoreClassStuff\obj\Debug\ExerciseMoreClassStuff.csproj.CoreCompileInputs.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseMoreClassStuff\ExerciseMoreClassStuff\obj\Debug\ExerciseMoreClassStuff.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseMoreClassStuff\ExerciseMoreClassStuff\obj\Debug\ExerciseMoreClassStuff.pdb

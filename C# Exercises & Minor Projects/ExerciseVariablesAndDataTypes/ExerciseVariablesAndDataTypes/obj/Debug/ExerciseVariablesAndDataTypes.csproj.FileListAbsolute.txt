@@ -1,0 +1,7 @@
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseVariablesAndDataTypes\ExerciseVariablesAndDataTypes\bin\Debug\ExerciseVariablesAndDataTypes.exe.config
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseVariablesAndDataTypes\ExerciseVariablesAndDataTypes\bin\Debug\ExerciseVariablesAndDataTypes.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseVariablesAndDataTypes\ExerciseVariablesAndDataTypes\bin\Debug\ExerciseVariablesAndDataTypes.pdb
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseVariablesAndDataTypes\ExerciseVariablesAndDataTypes\obj\Debug\ExerciseVariablesAndDataTypes.csprojAssemblyReference.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseVariablesAndDataTypes\ExerciseVariablesAndDataTypes\obj\Debug\ExerciseVariablesAndDataTypes.csproj.CoreCompileInputs.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseVariablesAndDataTypes\ExerciseVariablesAndDataTypes\obj\Debug\ExerciseVariablesAndDataTypes.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseVariablesAndDataTypes\ExerciseVariablesAndDataTypes\obj\Debug\ExerciseVariablesAndDataTypes.pdb

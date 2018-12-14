@@ -1,0 +1,7 @@
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseLambdaExpressions\ExerciseLambdaExpressions\bin\Debug\ExerciseLambdaExpressions.exe.config
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseLambdaExpressions\ExerciseLambdaExpressions\bin\Debug\ExerciseLambdaExpressions.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseLambdaExpressions\ExerciseLambdaExpressions\bin\Debug\ExerciseLambdaExpressions.pdb
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseLambdaExpressions\ExerciseLambdaExpressions\obj\Debug\ExerciseLambdaExpressions.csprojAssemblyReference.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseLambdaExpressions\ExerciseLambdaExpressions\obj\Debug\ExerciseLambdaExpressions.csproj.CoreCompileInputs.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseLambdaExpressions\ExerciseLambdaExpressions\obj\Debug\ExerciseLambdaExpressions.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseLambdaExpressions\ExerciseLambdaExpressions\obj\Debug\ExerciseLambdaExpressions.pdb

@@ -1,0 +1,6 @@
+C:\Users\TimGaming\source\repos\ExerciseMathods\ExerciseMathods\bin\Debug\ExerciseMathods.exe.config
+C:\Users\TimGaming\source\repos\ExerciseMathods\ExerciseMathods\bin\Debug\ExerciseMathods.exe
+C:\Users\TimGaming\source\repos\ExerciseMathods\ExerciseMathods\bin\Debug\ExerciseMathods.pdb
+C:\Users\TimGaming\source\repos\ExerciseMathods\ExerciseMathods\obj\Debug\ExerciseMathods.csproj.CoreCompileInputs.cache
+C:\Users\TimGaming\source\repos\ExerciseMathods\ExerciseMathods\obj\Debug\ExerciseMathods.exe
+C:\Users\TimGaming\source\repos\ExerciseMathods\ExerciseMathods\obj\Debug\ExerciseMathods.pdb

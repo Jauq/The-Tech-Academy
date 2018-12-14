@@ -1,0 +1,7 @@
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBooleanWhile\ExerciseBooleanWhile\bin\Debug\ExerciseBooleanWhile.exe.config
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBooleanWhile\ExerciseBooleanWhile\bin\Debug\ExerciseBooleanWhile.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBooleanWhile\ExerciseBooleanWhile\bin\Debug\ExerciseBooleanWhile.pdb
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBooleanWhile\ExerciseBooleanWhile\obj\Debug\ExerciseBooleanWhile.csprojAssemblyReference.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBooleanWhile\ExerciseBooleanWhile\obj\Debug\ExerciseBooleanWhile.csproj.CoreCompileInputs.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBooleanWhile\ExerciseBooleanWhile\obj\Debug\ExerciseBooleanWhile.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBooleanWhile\ExerciseBooleanWhile\obj\Debug\ExerciseBooleanWhile.pdb

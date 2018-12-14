@@ -1,0 +1,7 @@
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomeComparison\AnonymousIncomeComparison\bin\Debug\AnonymousIncomeComparison.exe.config
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomeComparison\AnonymousIncomeComparison\bin\Debug\AnonymousIncomeComparison.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomeComparison\AnonymousIncomeComparison\bin\Debug\AnonymousIncomeComparison.pdb
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomeComparison\AnonymousIncomeComparison\obj\Debug\AnonymousIncomeComparison.csprojAssemblyReference.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomeComparison\AnonymousIncomeComparison\obj\Debug\AnonymousIncomeComparison.csproj.CoreCompileInputs.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomeComparison\AnonymousIncomeComparison\obj\Debug\AnonymousIncomeComparison.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomeComparison\AnonymousIncomeComparison\obj\Debug\AnonymousIncomeComparison.pdb

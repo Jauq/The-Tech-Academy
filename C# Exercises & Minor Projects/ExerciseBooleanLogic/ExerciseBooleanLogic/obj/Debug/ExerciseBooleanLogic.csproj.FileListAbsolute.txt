@@ -1,0 +1,7 @@
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBooleanLogic\ExerciseBooleanLogic\bin\Debug\ExerciseBooleanLogic.exe.config
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBooleanLogic\ExerciseBooleanLogic\bin\Debug\ExerciseBooleanLogic.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBooleanLogic\ExerciseBooleanLogic\bin\Debug\ExerciseBooleanLogic.pdb
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBooleanLogic\ExerciseBooleanLogic\obj\Debug\ExerciseBooleanLogic.csprojAssemblyReference.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBooleanLogic\ExerciseBooleanLogic\obj\Debug\ExerciseBooleanLogic.csproj.CoreCompileInputs.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBooleanLogic\ExerciseBooleanLogic\obj\Debug\ExerciseBooleanLogic.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\ExerciseBooleanLogic\ExerciseBooleanLogic\obj\Debug\ExerciseBooleanLogic.pdb

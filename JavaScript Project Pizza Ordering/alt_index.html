@@ -1,0 +1,404 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="./css/style.css">
+
+    <title>Real Pizza</title>
+  </head>
+  <body>
+    
+    <div class="container">
+
+      <div class="row justify-content-center" id="top"> <!-- Top Row Title -->
+        <div class="col-6 text-center">
+          <div class="card titleCard">
+            Pizza Ordering
+          </div>
+        </div>
+      </div>
+
+      <div class="row justify-content-center"> <!-- Second Row Ordering -->
+        <div class="col-6">
+          <div class="card">
+
+            <div> <!-- Pizza Size -->
+              <h1 class="typeHeader">Pizza Size</h1>
+              <div class="custom-control custom-radio custom-control-inline">
+                <input type="radio" id="pizzaSize1" name="pizzaSize" class="custom-control-input" value="Personal 6">
+                <label class="custom-control-label" for="pizzaSize1">Personal Size ($6.00)</label>
+              </div>
+              <div class="custom-control custom-radio custom-control-inline">
+                <input type="radio" id="pizzaSize2" name="pizzaSize" class="custom-control-input" value="Medium 10" >
+                <label class="custom-control-label" for="pizzaSize2">Medium Size ($10.00)</label>
+              </div>
+              <div class="custom-control custom-radio custom-control-inline">
+                <input type="radio" id="pizzaSize3" name="pizzaSize" class="custom-control-input" value="Large 14"  checked>
+                <label class="custom-control-label" for="pizzaSize3">Large Size ($14.00)</label>
+              </div>
+              <div class="custom-control custom-radio custom-control-inline">
+                <input type="radio" id="pizzaSize4" name="pizzaSize" class="custom-control-input" value="Extra_Large 16" >
+                <label class="custom-control-label" for="pizzaSize4">Extra Large Size ($16.00)</label>
+              </div>
+              <hr class="my-2">
+            </div>
+
+            <div> <!-- Crust -->
+              <h1 class="typeHeader">Crust</h1>
+              <div class="custom-control custom-radio custom-control-inline">
+                <input type="radio" id="crustType1" name="crustType" class="custom-control-input" value="Plain 0" checked >
+                <label class="custom-control-label" for="crustType1">Plain Crust</label>
+              </div>
+              <div class="custom-control custom-radio custom-control-inline">
+                <input type="radio" id="crustType2" name="crustType" class="custom-control-input" value="Garlic_Butter 0" >
+                <label class="custom-control-label" for="crustType2">Garlic Butter Crust</label>
+              </div>
+              <div class="custom-control custom-radio custom-control-inline">
+                <input type="radio" id="crustType3" name="crustType" class="custom-control-input" value="Cheesy_Stuffed 3" >
+                <label class="custom-control-label" for="crustType3">Cheese Stuffed Crust (+$3.00)</label>
+              </div>
+              <div class="custom-control custom-radio custom-control-inline">
+                <input type="radio" id="crustType4" name="crustType" class="custom-control-input" value="Spicy 0" >
+                <label class="custom-control-label" for="crustType4">Spicy Crust</label>
+              </div>
+              <div class="custom-control custom-radio custom-control-inline">
+                <input type="radio" id="crustType5" name="crustType" class="custom-control-input" value="House_Special 0" >
+                <label class="custom-control-label" for="crustType5">House Special Crust</label>
+              </div>
+              <hr class="my-2">
+            </div>
+
+            <div> <!-- Sauce -->
+              <h1 class="typeHeader">Sauce</h1>
+              <div class="custom-control custom-radio custom-control-inline">
+                <input type="radio" id="sauceType1" name="sauceType" class="custom-control-input" value="Marinara 0" checked >
+                <label class="custom-control-label" for="sauceType1">Marinara Sauce</label>
+              </div>
+              <div class="custom-control custom-radio custom-control-inline">
+                <input type="radio" id="sauceType2" name="sauceType" class="custom-control-input" value="White 0" >
+                <label class="custom-control-label" for="sauceType2">White Sauce</label>
+              </div>
+              <div class="custom-control custom-radio custom-control-inline">
+                <input type="radio" id="sauceType3" name="sauceType" class="custom-control-input" value="Barbeque 0" >
+                <label class="custom-control-label" for="sauceType3">Barbeque Sauce</label>
+              </div>
+              <div class="custom-control custom-radio custom-control-inline">
+                <input type="radio" id="sauceType4" name="sauceType" class="custom-control-input" value="None 0" >
+                <label class="custom-control-label" for="sauceType4">No Sauce</label>
+              </div>
+              <hr class="my-2">
+            </div>
+
+            <div> <!-- Cheese -->
+              <h1 class="typeHeader">Cheese Amount</h1>
+              <div class="custom-control custom-radio custom-control-inline">
+                <input type="radio" id="cheeseAmount1" name="cheeseAmount" class="custom-control-input" value="None 0" >
+                <label class="custom-control-label" for="cheeseAmount1">No Cheese</label>
+              </div>
+              <div class="custom-control custom-radio custom-control-inline">
+                <input type="radio" id="cheeseAmount2" name="cheeseAmount" class="custom-control-input" value="Regular 0" checked >
+                <label class="custom-control-label" for="cheeseAmount2">Regular Amount</label>
+              </div>
+              <div class="custom-control custom-radio custom-control-inline">
+                <input type="radio" id="cheeseAmount3" name="cheeseAmount" class="custom-control-input" value="Extra 3" >
+                <label class="custom-control-label" for="cheeseAmount3">Extra Cheese (+$3.00)</label>
+              </div>
+              <hr class="my-2">
+            </div>
+
+            <div> <!-- Meats -->
+              <h1 class="typeHeader">Meat Selection</h1>
+              <p class="typeSubHeader">First meat topping is free, every additional topping is +$1.00 each.</p>
+              <div class="custom-control custom-checkbox custom-control-inline">
+                <input type="checkbox" class="custom-control-input" name= "meats" id="meats1" value="Pepperoni" >
+                <label class="custom-control-label" for="meats1">Pepperoni</label>
+              </div>
+              <div class="custom-control custom-checkbox custom-control-inline">
+                <input type="checkbox" class="custom-control-input" name= "meats" id="meats2" value="Sausage" >
+                <label class="custom-control-label" for="meats2">Sausage</label>
+              </div>
+              <div class="custom-control custom-checkbox custom-control-inline">
+                <input type="checkbox" class="custom-control-input" name= "meats" id="meats3" value="Canadian Bacon" >
+                <label class="custom-control-label" for="meats3">Canadian Bacon</label>
+              </div>
+              <div class="custom-control custom-checkbox custom-control-inline">
+                <input type="checkbox" class="custom-control-input" name= "meats" id="meats4" value="Ground Beef" >
+                <label class="custom-control-label" for="meats4">Ground Beef</label>
+              </div>
+              <div class="custom-control custom-checkbox custom-control-inline">
+                <input type="checkbox" class="custom-control-input" name= "meats" id="meats5" value="Anchovy" >
+                <label class="custom-control-label" for="meats5">Anchovy</label>
+              </div>
+              <div class="custom-control custom-checkbox custom-control-inline">
+                <input type="checkbox" class="custom-control-input" name= "meats" id="meats6" value="Chicken" >
+                <label class="custom-control-label" for="meats6">Chicken</label>
+              </div>
+              <hr class="my-2">
+            </div>
+
+            <div> <!-- Non-Meats -->
+              <h1 class="typeHeader">Non-Meats</h1>
+              <p class="typeSubHeader">First non-meat topping is free, every additional topping is +$1.00 each.</p>
+              <div class="custom-control custom-checkbox custom-control-inline">
+                <input type="checkbox" class="custom-control-input" name= "non-meats" id="non-meats1" value="Tomatoes" >
+                <label class="custom-control-label" for="non-meats1">Tomatoes</label>
+              </div>
+              <div class="custom-control custom-checkbox custom-control-inline">
+                <input type="checkbox" class="custom-control-input" name= "non-meats" id="non-meats2" value="Onions" >
+                <label class="custom-control-label" for="non-meats2">Onions</label>
+              </div>
+              <div class="custom-control custom-checkbox custom-control-inline">
+                <input type="checkbox" class="custom-control-input" name= "non-meats" id="non-meats3" value="Olives" >
+                <label class="custom-control-label" for="non-meats3">Olives</label>
+              </div>
+              <div class="custom-control custom-checkbox custom-control-inline">
+                <input type="checkbox" class="custom-control-input" name= "non-meats" id="non-meats4" value="Green Peppers" >
+                <label class="custom-control-label" for="non-meats4">Green Peppers</label>
+              </div>
+              <div class="custom-control custom-checkbox custom-control-inline">
+                <input type="checkbox" class="custom-control-input" name= "non-meats" id="non-meats5" value="Mushrooms" >
+                <label class="custom-control-label" for="non-meats5">Mushrooms</label>
+              </div>
+              <div class="custom-control custom-checkbox custom-control-inline">
+                <input type="checkbox" class="custom-control-input" name= "non-meats" id="non-meats6" value="Pineapple" >
+                <label class="custom-control-label" for="non-meats6">Pineapple</label>
+              </div>
+              <div class="custom-control custom-checkbox custom-control-inline">
+                <input type="checkbox" class="custom-control-input" name= "non-meats" id="non-meats7" value="Spinach" >
+                <label class="custom-control-label" for="non-meats7">Spinach</label>
+              </div>
+              <div class="custom-control custom-checkbox custom-control-inline">
+                <input type="checkbox" class="custom-control-input" name= "non-meats" id="non-meats8" value="Jalape&ntilde;o" >
+                <label class="custom-control-label" for="non-meats8">Jalape&ntilde;o</label>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <div class="col-6">
+            <div class="card">
+                <h1>Order Details</h1>
+                <hr class="my-1">
+
+                <div class="row"> <!-- Pizza Size -->
+                  <div class="col col-md-3">
+                    <p class="orderWords" style="text-decoration: underline;">Pizza Size: </p>
+                  </div>
+                  <div class="col">
+                    <p class="orderWords text" id="pizzaSizeLabel"></p>
+                  </div>
+                  <div class="col-sm-auto">
+                    <p class="orderWords text-right" id="pizzaSizePrice">-</p>
+                  </div>
+                </div>
+                <hr class="my-1">
+
+                <div class="row"> <!-- Crust -->
+                  <div class="col col-md-3">
+                    <p class="orderWords" style="text-decoration: underline;">Crust: </p>
+                  </div>
+                  <div class="col">
+                    <p class="orderWords" id="pizzaCrustLabel"></p>
+                  </div>
+                  <div class="col-sm-auto">
+                    <p class="orderWords text-right" id="pizzaCrustPrice">-</p>
+                  </div>
+                </div>
+                <hr class="my-1">
+
+                <div class="row"> <!-- Sauce -->
+                  <div class="col col-md-3">
+                    <p class="orderWords" style="text-decoration: underline;">Sauce: </p>
+                  </div>
+                  <div class="col">
+                    <p class="orderWords" id="pizzaSauceLabel"></p>
+                  </div>
+                  <div class="col-sm-auto">
+                    <p class="orderWords text-right" id="pizzaSaucePrice">-</p>
+                  </div>
+                </div>
+                <hr class="my-1">
+
+                <div class="row"> <!-- Cheese -->
+                  <div class="col col-md-3">
+                    <p class="orderWords" style="text-decoration: underline;">Cheese Amount: </p>
+                  </div>
+                  <div class="col">
+                    <p class="orderWords" id="pizzaCheeseLabel"></p>
+                  </div>
+                  <div class="col-sm-auto">
+                    <p class="orderWords text-right" id="pizzaCheesePrice">-</p>
+                  </div>
+                </div>
+                <hr class="my-1">
+
+                <div class="row"> <!-- Meats -->
+                  <div class="col col-md-3">
+                    <p class="orderWords" style="text-decoration: underline;">Meats: </p>
+                  </div>
+                  <div class="col">
+                    <p class="orderWords" id="pizzaMeatsLabel"></p>
+                  </div>
+                  <div class="col-sm-auto">
+                    <p class="orderWords text-right" id="pizzaMeatsPrice">-</p>
+                  </div>
+                </div>
+                <hr class="my-1">
+
+                <div class="row"> <!-- Non-Meats -->
+                  <div class="col col-md-3">
+                    <p class="orderWords" style="text-decoration: underline;">Non-Meats: </p>
+                  </div>
+                  <div class="col">
+                    <p class="orderWords" id="pizzaNonLabel"></p>
+                  </div>
+                  <div class="col-sm-auto">
+                    <p class="orderWords text-right" id="pizzaNonPrice">-</p>
+                  </div>
+                </div>
+                <hr class="my-1">
+
+                <hr class="my-1">
+                <div class="row"> <!-- Total -->
+                  <div class="col col-md-3">
+                    <p class="orderWords" style="text-decoration: underline; font-weight: bold;">Total </p>
+                  </div>
+                  <div class="col"></div>
+                  <div class="col-sm-auto">
+                    <p class="orderWords text-right" style="font-weight: bold;" id="totalPrice">-</p>
+                  </div>
+                </div>
+                <hr class="my-1">
+
+                <button type="button" class="btn btn-outline-dark custBtn" onclick="UpdateOrder()">Place Order</button>
+
+            </div>
+          </div>
+      </div>
+
+      <div class="row justify-content-center"> <!-- Bottom Row Return -->
+        <div class="col-6 text-center">
+          <div class="card footerCard">
+            <a class="btn btn-outline-dark custBtn" href="#top" role="button">Return to Top</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+ 
+    <!-- Scripting -->
+    <script>
+
+      var total = document.getElementById("totalPrice");
+      var p1 = document.getElementById("pizzaSizeLabel");
+      var p1_price = document.getElementById("pizzaSizePrice");
+      var p2 = document.getElementById("pizzaCrustLabel");
+      var p2_price = document.getElementById("pizzaCrustPrice");
+      var p3 = document.getElementById("pizzaSauceLabel");
+      var p3_price = document.getElementById("pizzaSaucePrice");
+      var p4 = document.getElementById("pizzaCheeseLabel");
+      var p4_price = document.getElementById("pizzaCheesePrice");
+      var p5 = document.getElementById("pizzaMeatsLabel");
+      var p5_price = document.getElementById("pizzaMeatsPrice");
+      var p6 = document.getElementById("pizzaNonLabel");
+      var p6_price = document.getElementById("pizzaNonPrice");
+
+      function QuickSplit(splitee) {
+        splitee = splitee.split(" ");
+        splitee[0] = splitee[0].replace("_", " ");
+        return splitee
+      };
+
+      function PriceDisplay(price, place, add = false) {
+        if (price > 0) {
+          if (add) {
+            place.innerHTML = "+$"+price+".00";
+          }
+          else {
+            place.innerHTML = "$"+price+".00";
+          };
+        }
+        else if (price <= 0) {
+          place.innerHTML = "-";
+        };
+      };
+
+      function MultiSelection(items, string, place) {
+        var j = 0
+        for (i = 0; i < items.length; i++) {
+          if (items[i].checked) {
+            if (j > 0) {
+              string = string + ", " + items[i].value;
+            }
+            else {
+              string = items[i].value;
+            };
+            j++
+          };
+        };
+        if (string == "") {
+          string = "None";
+        };
+        place.innerHTML = string;
+        return j;
+      };
+
+      function UpdateOrder() {
+        var total_price = 0;
+        var p1_select = document.querySelector('input[name="pizzaSize"]:checked').value;
+        p1_select = QuickSplit(p1_select);
+        var p2_select = document.querySelector('input[name="crustType"]:checked').value;
+        p2_select = QuickSplit(p2_select);
+        var p3_select = document.querySelector('input[name="sauceType"]:checked').value;
+        p3_select = QuickSplit(p3_select);
+        var p4_select = document.querySelector('input[name="cheeseAmount"]:checked').value;
+        p4_select = QuickSplit(p4_select);
+        var p5_select = document.getElementsByName('meats');
+        var p5_str = ""
+        var counter5 = 0
+        var p6_select = document.getElementsByName('non-meats');
+        var p6_str = ""
+        var counter6 = 0
+
+        p1.innerHTML = p1_select[0];
+        PriceDisplay(p1_select[1], p1_price);
+        p2.innerHTML = p2_select[0];
+        PriceDisplay(p2_select[1], p2_price, true);
+        p3.innerHTML = p3_select[0];
+        PriceDisplay(p3_select[1], p3_price, true);
+        p4.innerHTML = p4_select[0];
+        PriceDisplay(p4_select[1], p4_price, true);
+        counter5 = MultiSelection(p5_select, p5_str, p5);
+        PriceDisplay(counter5 - 1, p5_price, true);
+        counter5 = counter5 - 1;
+        if (counter5 < 0) {
+          counter5 = 0;
+        };
+        counter6 = MultiSelection(p6_select, p6_str, p6);
+        PriceDisplay(counter6 - 1, p6_price, true);
+        counter6 = counter6 - 1;
+        if (counter6 < 0) {
+          counter6 = 0;
+        };
+
+        total_price = parseInt(p1_select[1]) + parseInt(p2_select[1]) + parseInt(p3_select[1]) + parseInt(p4_select[1]) + counter5 + counter6;
+        total.innerHTML = "$"+total_price+".00";
+
+      };
+    </script>
+    <!-- /Scripting -->
+
+  </body>
+</html>

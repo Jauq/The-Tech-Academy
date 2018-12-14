@@ -1,0 +1,7 @@
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\IO\IO\bin\Debug\IO.exe.config
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\IO\IO\bin\Debug\IO.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\IO\IO\bin\Debug\IO.pdb
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\IO\IO\obj\Debug\IO.csprojAssemblyReference.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\IO\IO\obj\Debug\IO.csproj.CoreCompileInputs.cache
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\IO\IO\obj\Debug\IO.exe
+D:\_TheTechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\IO\IO\obj\Debug\IO.pdb

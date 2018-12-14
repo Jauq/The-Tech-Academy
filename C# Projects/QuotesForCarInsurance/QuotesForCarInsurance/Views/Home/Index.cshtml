@@ -1,0 +1,55 @@
+﻿<div class="row no-gutters m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h5 class="m-0">Please fill out this form to receive your estimated monthly price.</h5>
+        </div>
+        <div class="card-body">
+            @using (Html.BeginForm("Quote", "Home", FormMethod.Post))
+            {
+            <div class="row no-gutters">
+                <div class="form-group col-md-12">
+                    <input name="FirstName" type="text" class="form-control" placeholder="First Name" />
+                </div>
+                <div class="form-group col-md-12">
+                    <input name="LastName" type="text" class="form-control" placeholder="Last Name" />
+                </div>
+                <div class="form-group col-md-12">
+                    <input name="EmailAddress" type="email" class="form-control" placeholder="Email Address" />
+                </div>
+                Date of Birth
+                <div class="form-group col-md-12">
+                    <input name="DateOfBirth" type="date" class="form-control" placeholder="mm/dd/yyyy" />
+                </div>
+                Car Year
+                <div class="form-group col-md-12">
+                    <input name="CarYear" type="number" class="form-control" value="@DateTime.Now.Year"/>
+                </div>
+                <div class="form-group col-md-12">
+                    <input name="CarMake" type="text" class="form-control" placeholder="Car Make" />
+                </div>
+                <div class="form-group col-md-12">
+                    <input name="CarModel" type="text" class="form-control" placeholder="Car Model" />
+                </div>
+                <div class="form-group col-md-12">
+                    <input name="DUI" type="checkbox" class="form-check-inline" value="DUI" />
+                    <p class="form-check-inline m-0">Have you ever had a DUI?</p>
+                </div>
+                Number of Speeding Tickets
+                <div class="form-group col-md-12">
+                    <input name="SpeedingTickets" type="number" class="form-control" value="0"/>
+                </div>
+                Coverage Type
+                <div class="form-group col-md-12 m-0">
+                    <input name="CoverageType" type="radio" class="form-check-inline" value="Full" checked />
+                    <p class="form-check-inline m-0">Full Coverage</p>
+                </div>
+                <div class="form-group col-md-12">
+                    <input name="CoverageType" type="radio" class="form-check-inline" value="Liability" />
+                    <p class="form-check-inline m-0">Liability</p>
+                </div>
+                <button type="submit" class="btn btn-block btn-primary">Submit</button>
+            </div>
+            }
+        </div>
+    </div>
+</div>
