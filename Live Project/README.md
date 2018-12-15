@@ -1,8 +1,10 @@
 # MVC-Code-First-Snippets
 
-These are snippets of my code on an MVC Code First Project, due to the nature of the project I will not be able to release its entirety here. However, I will thoroughly explain the purpose of each snippet within this README. I have excluded parts of original files that do not pertain to my work, and since these files won't work on their own anyway the excluded code shouldn't be a bother.
+These are snippets of my code on an MVC Code First Project, due to the nature of the project I will not be able to release its entirety here. However, I will thoroughly explain the purpose of each snippet within this README.
 
 Synopsis of the project at hand: It's a website, or a dashboard, to help students attending The Tech Academy Bootcamp to keep track of their Job hunting progress and process. Of course, this project will have changed since I worked on it, so this code is likely out of date.
+
+The images are screenshots of the various pages I worked on, I've added custom notes in dark boxes with white arial text and arrows.
 
 Here is a rundown of the files (Note: the names of some files have been changed for the purpose of personal organization):
 
@@ -13,3 +15,4 @@ Here is a rundown of the files (Note: the names of some files have been changed 
 + JPHires-Create.cshtml - This is a View. This webpage allowed a non-admin registered user to create a Hire for themself (Hire is a database model, and what is used to track what kinds of jobs the applicant is getting hired for) My additions was styling, the buttons needed to stay on opposite sides of the same row.
 + JPJobLeadSource.cs - This is a simple C# Enum used within the code to translate a database INT with relative ease into a part of a webpage. Specifically the Job's lead source.
 + JPStudentRundownController.cs - This is a controller. I added sorting functionality for the "Ready To Graduate" sortparm. On the View "JPStudentRundown-Index.cshtml" a list of students is displayed as well as basic contact information and work related information. There was a button on that page that already existed and I needed to add functionality to it, so I made the sorting code where it takes all students in the database and only displays them on the list if they have 35 or more applications and have all 6 items on the checklist completed (the checklist section uses a function which I did not make).
++ JPStudentRundown-Index.cshtml - I didn't work on this, I've just included it because the code from the JPStudentRundownController.cs controller was what I did work on, and that controller changes up this view.
