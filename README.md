@@ -23,7 +23,7 @@ In here you will find three distinct Projects.
 
 The first being named "Contoso University". This is what I had created from the following the instructions found here:
 
-* [Microsoft Code-First MVC Tutorial](#https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application)
+* [Microsoft Code-First MVC Tutorial](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application)
 
 It is a Code-First MVC project that revolves around an interface that can be used to keep track of a university, which includes Students, Grades, Instructors, Classes, Departments and Budgets.
 Note: I did not write any of this code myself, I merely copied it.
