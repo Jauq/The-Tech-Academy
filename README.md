@@ -33,19 +33,19 @@ The Second is named "Knockout." This file contains my experimentation with the K
 The Third is named "QuotesForCarInsurance." This is an Database-First MVC project where the user can input their details about their car and recieve a quote based on those parameters. My only instructions were a list of parameters I needed to get from the user and a bunch of rules for calculating price, all of the code, back-end and front-end, was developed by me.
 
 ### HTML & CSS Projects
-I apoligise for the incomplete overview, I will get down to this as soon as I can.
+I apoligize for the incomplete overview, I will get down to this as soon as I can.
 
 ### JavaScript Exercises & Minor Projects
-I apoligise for the incomplete overview, I will get down to this as soon as I can.
+I apoligize for the incomplete overview, I will get down to this as soon as I can.
 
 ### Javascript Project Pizza Ordering
-I apoligise for the incomplete overview, I will get down to this as soon as I can.
+I apoligize for the incomplete overview, I will get down to this as soon as I can.
 
 ### Live Project
-I apoligise for the incomplete overview, I will get down to this as soon as I can.
+I apoligisze for the incomplete overview, I will get down to this as soon as I can.
 
 ### SQL Exercises
-I apoligise for the incomplete overview, I will get down to this as soon as I can.
+I apoligize for the incomplete overview, I will get down to this as soon as I can.
 
 ### SQL Library Managment System Project
-I apoligise for the incomplete overview, I will get down to this as soon as I can.
+I apoligize for the incomplete overview, I will get down to this as soon as I can.
