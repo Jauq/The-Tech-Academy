@@ -5,9 +5,9 @@ This repository is the grand collection of code that I had programmed myself or 
 ## Overviews
 * [C# Exercises & Minor Projects](#c-exercises--minor-projects)
 * [C# Projects](#c-projects)
-* [HTML & CSS Projects](#html--css-projects) -incomplete overview
-* [JavaScript Exercises & Minor Projects](#javascript-exercises--minor-projects) -incomplete overview
-* [Javascript Project Pizza Ordering](#javascript-project-pizza-ordering) -incomplete overview
+* [HTML & CSS Projects](#html--css-projects)
+* [JavaScript Exercises & Minor Projects](#javascript-exercises--minor-projects)
+* [Javascript Project Pizza Ordering](#javascript-project-pizza-ordering)
 * [Live Project](#live-project) -incomplete overview
 * [SQL Exercises](#sql-exercises) -incomplete overview
 * [SQL Library Managment System Project](#sql-library-managment-system-project) -incomplete overview
@@ -33,13 +33,17 @@ The Second is named "Knockout." This file contains my experimentation with the K
 The Third is named "QuotesForCarInsurance." This is an Database-First MVC project where the user can input their details about their car and recieve a quote based on those parameters. My only instructions were a list of parameters I needed to get from the user and a bunch of rules for calculating price, all of the code, back-end and front-end, was developed by me.
 
 ### HTML & CSS Projects
-I apoligize for the incomplete overview, I will get down to this as soon as I can.
+This is a small collection of HTML and CSS files that I copied from instructors at The Tech Academy. There isn't anything too special about them, all they did was teach me the basics. I downloaded all images off of the Tech Academy LMS Website.
+
+The most impressive project would have to simply be the one named "index.html" as this ones is a single page website surrounded around the idea of taking a vacation to space. It even comes with pictures and some input boxes where you could theoretically start to set up a vaction, of course it is all fictional and was made entirely for the purpose of instruction.
 
 ### JavaScript Exercises & Minor Projects
-I apoligize for the incomplete overview, I will get down to this as soon as I can.
+Like the HTML & CSS Projects, these files were copied from instructors at The Tech Academy. They aren't individually interesting, they just taught me the basics of JavaScript when combined with HTML and CSS.
+
+The most interesting project would have to be a file named "get_val_and_cal.html." It is simply a calculator built into the browser. Though it's limitations are clear, it will only take two whole numbers, and give you a single answer rounded to the nearest hundreth.
 
 ### Javascript Project Pizza Ordering
-I apoligize for the incomplete overview, I will get down to this as soon as I can.
+This project in partiular is an interesting one. I didn't copy any code from The Tech Academy instructors this time, instead I was given some rules, and a desired outcome. The rules being how much do pizza sizes and toppings cost, and the outcome to be a working web app that can display the price of a selected pizza. The file named "index.html" was my original design, complete with auto price calculation and a very basic design built with bootstrap. The file named "alt-index.html" is identical except that the price doesn't auto-calculate and you must press the "place order" button to do so. Overall this project is a good example of what I can do with my Javascript skills.
 
 ### Live Project
 I apoligisze for the incomplete overview, I will get down to this as soon as I can.
