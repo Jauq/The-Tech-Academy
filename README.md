@@ -8,9 +8,9 @@ This repository is the grand collection of code that I had programmed myself or 
 * [HTML & CSS Projects](#html--css-projects)
 * [JavaScript Exercises & Minor Projects](#javascript-exercises--minor-projects)
 * [Javascript Project Pizza Ordering](#javascript-project-pizza-ordering)
-* [Live Project](#live-project) -incomplete overview
-* [SQL Exercises](#sql-exercises) -incomplete overview
-* [SQL Library Managment System Project](#sql-library-managment-system-project) -incomplete overview
+* [Live Project](#live-project)
+* [SQL Exercises](#sql-exercises)
+* [SQL Library Managment System Project](#sql-library-managment-system-project)
 
 ### C# Exercises & Minor Projects
 Within this collection of folders and files you will find everything I had made in Visual Studio revolving around C#.
@@ -46,10 +46,14 @@ The most interesting project would have to be a file named "get_val_and_cal.html
 This project in partiular is an interesting one. I didn't copy any code from The Tech Academy instructors this time, instead I was given some rules, and a desired outcome. The rules being how much do pizza sizes and toppings cost, and the outcome to be a working web app that can display the price of a selected pizza. The file named "index.html" was my original design, complete with auto price calculation and a very basic design built with bootstrap. The file named "alt-index.html" is identical except that the price doesn't auto-calculate and you must press the "place order" button to do so. Overall this project is a good example of what I can do with my Javascript skills.
 
 ### Live Project
-I apoligisze for the incomplete overview, I will get down to this as soon as I can.
+The Live Project is a special project from the Tech Academy. I, and some other attendees, worked on an MVC Code-first project for the tech academy using Azure DevOps. During this time, The Tech Academy taught me how to work in a large team where everyone works on the same project, and also how to maneuver through and properly use Azure DevOps.
+
+The project itself is a dashboard for The Tech Academy. A website that allows them and their attendees to keep track of progress on their job hunt.
+
+In this repository I specifically go over certain stories that I personally worked on and found the solutions too, and since I cannot bring the entire project into my repository for obvious reasons, I have included screenshots of the project with notes and comments of what I worked on.
 
 ### SQL Exercises
-I apoligize for the incomplete overview, I will get down to this as soon as I can.
+Here is a collection of SQL code. The files whose names start with "SQLQueryBasics" was code that I copied from The Tech Academy instructors, but the files whose names start with "SQLDrill" was code that I wrote myself following certain requirements from The Tech Academy. I also wrote the code for the Adventure Works SQL file, following requirements as I did with the drills.
 
 ### SQL Library Managment System Project
-I apoligize for the incomplete overview, I will get down to this as soon as I can.
+This project, while similar to the SQL Exercises, is quite different. While I had worked with pre-built databases in SQL Exercises, here I needed to fill out my own database following certain rules (The database tables and columns were told to me, but I filled out the data myself). This repository does not have the database in it, but the code has all the necesarry components to build the database I made. It also has stored procedures at the end which needed to be made based on certain requirements.
